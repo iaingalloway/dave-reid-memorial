@@ -6,3 +6,11 @@ a:hover { color: steelblue; }
 .markdown a:hover { color: steelblue; }
 
 a:active { color: steelblue; }
+
+a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
+  color: steelblue;
+}
+
+.navbar-item:hover, .navbar-item:active {
+  background-color: antiquewhite !important;
+}
