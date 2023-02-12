@@ -61,7 +61,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-gb"
         contentDir       = "content/en"
         weight           = 0
-        title            = "David Reid"
+        title            = "Dave Reid"
         [languages.en.params]
-            description  = "David Reid date-date"
+            description  = "Dave Reid 1956-2023"
             footerText   = ""

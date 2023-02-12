@@ -1,5 +1,5 @@
 ---
-title: "David Reid"
+title: "Dave Reid"
 headless: true
 image: "profile.jpg"
 weight: 100
