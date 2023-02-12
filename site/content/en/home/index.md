@@ -1,7 +1,8 @@
 ---
 title: "David Reid"
 headless: true
+image: "profile.jpg"
 weight: 100
 ---
 
-date-date
+1956-2023

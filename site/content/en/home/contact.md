@@ -3,9 +3,7 @@ title: "Contact"
 weight: 2
 ---
 
-If you wish to leave a message for the family, you can send it to Dave's daughter Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
-
-You can also leave a message below. Please share your memories of Dave, and feel free to add any photos you have.
+We would really appreciate if you could take the time to share any photos or memories you have of Dave here, or directly to Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
