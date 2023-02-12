@@ -17,7 +17,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Configure the home page
     [params.home]
-        introHeight              = "fullheight"                # Input either "medium" or "large" or "fullheight"
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         localTime                = false                   # Show your current local time in contact section
         timeZone                 = "Europe/London"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-GB"                 # Language specific format to use

@@ -16,6 +16,11 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 }
 
 @media screen and (max-width: 1023px){
+  
+  .hero.is-fullheight {
+    min-height: 95vh;
+  }
+
   .navbar-menu {
     background-color: antiquewhite;
     box-shadow: 0 0 0;
