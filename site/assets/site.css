@@ -1,0 +1,8 @@
+body { background-color: antiquewhite; }
+
+a { color: midnightblue; font-weight: bold; }
+
+a:hover { color: steelblue; }
+.markdown a:hover { color: steelblue; }
+
+a:active { color: steelblue; }
