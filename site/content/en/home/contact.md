@@ -3,17 +3,14 @@ title: "Contact"
 weight: 2
 ---
 
-We would really appreciate if you could take the time to share any photos or memories you have of Dave here, or directly to Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
+We would really appreciate if you could take the time to share any photos or memories you have of Dave on his facebook profile, or directly to Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
 
-<div id="disqus_thread"></div>
+<div id="hyvor-talk-view"></div>
 <script type="text/javascript">
-(function() {
-    if (window.location.hostname == "localhost")
-        return;
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = 'dave-reid-memorial';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
+    var HYVOR_TALK_WEBSITE = 8451;
+    var HYVOR_TALK_CONFIG = {
+        url: false,
+        id: false
+    };
 </script>
-<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
