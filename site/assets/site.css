@@ -14,3 +14,32 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 .navbar-item:hover, .navbar-item:active {
   background-color: antiquewhite !important;
 }
+
+@media screen and (max-width: 1023px){
+  .navbar-menu {
+    background-color: antiquewhite;
+    box-shadow: 0 0 0;
+    padding: 0.5rem 0;
+  }
+
+  .navbar-menu {
+    display:flex;
+    flex-grow: 1;
+    flex-shrink: 0;
+  }
+
+  .navbar-burger
+  {
+    display:none;
+  }
+
+  .navbar, .navbar-menu, .navbar-start, .navbar-end {
+    align-items: stretch;
+    display: flex;
+  }
+
+  .navbar-item, .navbar-link {
+    align-items: center;
+    display: flex;
+  }
+}
