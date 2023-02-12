@@ -1,7 +1,7 @@
 ---
 title: "Funeral"
 image: "profile.jpg"
-weight: 8
+weight: 1
 ---
 
 Dave Reid died peacefully at Victoria Hospital in Kirkcaldy in the morning of 2023-02-07.

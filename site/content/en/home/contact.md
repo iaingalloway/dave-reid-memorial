@@ -1,7 +1,21 @@
 ---
 title: "Contact"
+weight: 2
 ---
 
-In the Contact section of **Introduction**, you may optionally display the current time in your preferred timezone.
+If you wish to leave a message for the family, you can send it to Dave's daughter Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
 
-This lets visitors know what sort of response time to expect when they contact you. The timezone is easily set in the `config.toml` file. See the exampleSite configuration for instructions.
+You can also leave comments below. Please share your memories of Dave, and feel free to add any photos you have.
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+(function() {
+    if (window.location.hostname == "localhost")
+        return;
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'dave-reid-memorial';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>

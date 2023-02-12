@@ -1,7 +1,7 @@
 baseURL                          = "https://dave-reid-memorial.netlify.app/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
+# disqusshortname                 = "dave-reid-memorial"   # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
@@ -11,7 +11,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "2006-01-02"
-    email                        = "megan.reid85+dave@gmail.com"
     customCSS                    = ["site.css"]            # Include custom css files placed under assets/
     customJS                     = ["netlifycms.js"]       # Include custom JavaScript files placed under assets/
 
