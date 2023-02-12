@@ -3,7 +3,7 @@ title: "Contact"
 weight: 2
 ---
 
-We would really appreciate if you could take the time to share any photos or memories you have of Dave on his facebook profile, or directly to Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
+We would really appreciate if you could take the time to share any photos or memories you have of Dave using the form below, on his [facebook profile](https://www.facebook.com/david.reid.79230305), or directly to Megan at [megan.reid85@gmail.com](mailto:megan.reid85+dave@gmail.com).
 
 <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
